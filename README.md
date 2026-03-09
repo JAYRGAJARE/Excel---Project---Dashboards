@@ -56,5 +56,3 @@ Created by **[Jay Gajare]**
 Aspiring **Data Analyst** passionate about turning data into actionable insights.
 
 ---
-
-⭐ If you like this project, feel free to star the repository.
